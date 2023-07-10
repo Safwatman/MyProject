@@ -1,2 +1,2 @@
 # MyProject
- My Tutoria Project
+ My Tutorial Project
